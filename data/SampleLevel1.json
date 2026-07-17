@@ -1,16 +1,28 @@
 {
-    "id": 57436521,
-    "name": "SampleLevel1",
-    "author": "LevelUploader",
-    "creators": ["Creator1", "Creator2", "Creator3"],
-    "verifier": "Verifier",
-    "verification": "https://www.youtube.com/watch?v=ISTl28wKSXc",
-    "percentToQualify": 56,
-    "password": "Not Copyable",
+    "id": 125682406,
+    "name": "Mesmerized",
+    "author": "ILoveLilies",
+    "creators": ["ILoveLilies"],
+    "verifier": "Loooookkk",
+    "verification": "https://youtu.be/y5NZwSYdvnM?si=Zkn4DWNlhH-SrPu1",
+    "percentToQualify": 100,
+    "method": "Alternating",
     "records": [
         {
-            "user": "Sample_Victor_1",
-            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "user": "Ad3usGMD",
+            "link": "https://youtu.be/17OGnDuxuFQ?si=RFT5z-ooENQX79II",
+            "percent": 100,
+            "hz": 240
+        },
+          {
+            "user": "Randomperson360",
+            "link": "https://youtu.be/ZubcWWWMv94?si=KLsGXSZ1it_KeDrQ",
+            "percent": 100,
+            "hz": 60
+        },
+         {
+            "user": "YWUChaos",
+            "link": "https://youtu.be/aHCrgzKwhVg?si=vFDBeppEYJSCEA5x",
             "percent": 100,
             "hz": 360
         }
