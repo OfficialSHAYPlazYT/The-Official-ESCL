@@ -1,6 +1,6 @@
 [
     {
-        "role": "Owner",
+        "role": "owner",
         "name": "SHAYPlaz",
         "link": "https://youtube.com/@shay-k_47?si=PEWy1tfU09jjDVm5"
     },
@@ -20,7 +20,7 @@
         "link": "https://youtube.com/@smellybanditgd?si=7deFx0f73aFtdXgl"
     },
     {
-        "role": "Dev",
+        "role": "dev",
         "name": "Ratafak",
         "link": "https://youtube.com/shorts/1D2FJj3rCmg?si=fUvTLqAjTYsyWoC4"
     }
