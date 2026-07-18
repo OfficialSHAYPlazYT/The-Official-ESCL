@@ -1,0 +1,24 @@
+{
+    "id": 143080380,
+    "name": "Tower C",
+    "author": "Squeeggd",
+    "creators": ["Squeeggd"],
+    "verifier": "AllOnRed777",
+    "verification": "https://youtu.be/CsEReegUDBg?si=hRISXSberoDU6ZVz",
+    "percentToQualify": 100,
+    "password": "Rake/CBF",
+    "records": [
+        {
+            "user": "SHAYPlazYT",
+            "link": "https://youtu.be/5WSj48v7pNw?si=g7EZvRsMr3FemMJj",
+            "percent": 100,
+            "hz": CBF
+        },
+          {
+            "user": "AstroGuy",
+            "link": "https://youtube.com/@astroguy.png4?si=_L2X4Z6d6k7sLjR9",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
