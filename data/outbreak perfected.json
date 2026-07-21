@@ -1,0 +1,24 @@
+{
+    "id": 136559016,
+    "name": "Outbreak Perfected",
+    "author": "Squeeggd",
+    "creators": ["Squeeggd"],
+    "verifier": "SHAYPlazYT",
+    "verification": "https://youtu.be/geLTZ-8zdes?si=7uUweSgqXM6svOvN",
+    "percentToQualify": "100",
+    "password": "Rake/CBF",
+    "records": [     
+        {
+            "user": "Radiant",
+            "link": "https://youtu.be/gmyWbNQwE40?si=LieeZwyOZUlKRN60",
+            "percent": 100,
+            "hz": 60
+        },
+       {
+            "user": "AstroGuy",
+            "link": "https://youtu.be/HAsBLfV4trk?si=mZy_2qcA5xpw-984",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
