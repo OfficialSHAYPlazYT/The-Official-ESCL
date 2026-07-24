@@ -1,0 +1,18 @@
+{
+    "id": 132408061,
+    "name": "Blue Noah",
+    "author": "Squeeggd",
+    "creators": ["Squeeggd"],
+    "verifier": "Radiant",
+    "verification": "https://youtu.be/mF0WhVJrVzw?si=3BNMcbDh3E55TZ-M",
+    "percentToQualify": "100",
+    "password": "Rake/CBF",
+    "records": [     
+        {
+            "user": "Astroguy",
+            "link": "https://youtu.be/tUt5ec74vkM?si=J78qFXO2P6Hh2BY4",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
