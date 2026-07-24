@@ -1,1 +1,18 @@
-https://youtu.be/jYQdozz5Lgc?si=BrdSkmXIbPudzNW5
+{
+    "id": 71891105,
+    "name": "Draggeye Never Ever",
+    "author": "Squeeggd",
+    "creators": ["Squeeggd"],
+    "verifier": "Astroguy",
+    "verification": "https://youtu.be/jYQdozz5Lgc?si=BrdSkmXIbPudzNW5",
+    "percentToQualify": "100",
+    "password": "Rake/CBF",
+    "records": [     
+        {
+            "user": "Radiant",
+            "link": "https://youtu.be/nojy0GmPiv0?si=RVTz02zyA3_nGLjB",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
