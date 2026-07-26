@@ -1,1 +1,24 @@
-https://youtu.be/5WSj48v7pNw?si=4H_Tjn5KN8mZHF1r
+{
+    "id": 128735318,
+    "name": "The Big Black",
+    "author": "Squeeggd",
+    "creators": ["Squeeggd, SomedudeV3"],
+    "verifier": "Radiant",
+    "verification": "https://youtu.be/An93yTGPpac?si=zeuYNFWQtxAb8vF7",
+    "percentToQualify": 100,
+    "password": "Rake/CBF",
+    "records": [
+        {
+            "user": "SHAYPlazYT",
+            "link": "https://youtu.be/5WSj48v7pNw?si=4H_Tjn5KN8mZHF1r",
+            "percent": 100,
+            "hz": 120
+        },
+          {
+            "user": "Astroguy",
+            "link": "https://youtu.be/c3CpNAXlBKI?si=hSb14TX-t6Ye7gb_",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}
