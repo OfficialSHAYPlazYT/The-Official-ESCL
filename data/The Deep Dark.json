@@ -8,5 +8,11 @@
     "percentToQualify": "100",
     "password": "Rake/CBF",
     "records": [
+         {
+            "user": "Astroguy",
+            "link": "https://youtu.be/UXFmFwOUTkc?si=Nr8l5VadPrI--2mO",
+            "percent": 100,
+            "hz": 360
+        }
     ]
 }
