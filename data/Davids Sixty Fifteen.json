@@ -8,4 +8,11 @@
     "percentToQualify": "100",
     "password": "Alternating/60FPS",
     "records": [   
-    
+     {
+            "user": "Randomperson360",
+            "link": "https://www.youtube.com/shorts/eG_8YNwG96A",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
