@@ -1,0 +1,18 @@
+{
+    "id": 132408061,
+    "name": "Blue Noah Superbuff",
+    "author": "Radiant",
+    "creators": ["Radiant, Squeeggd"],
+    "verifier": "Radiant",
+    "verification": "https://youtu.be/LYJessmoWu4?si=SWlxpWm7EBiY3TQq",
+    "percentToQualify": "100",
+    "password": "Rake/CBF",
+    "records": [     
+        {
+            "user": "Astroguy",
+            "link": "https://youtu.be/M6o4S2_mW9s?si=JfYCy6ODNP3-SZaJ",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
