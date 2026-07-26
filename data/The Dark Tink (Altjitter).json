@@ -7,6 +7,12 @@
     "verification": "https://youtu.be/HvPZZ86iYhY?si=_N1N0W2ZskQVU59Q",
     "percentToQualify": "100",
     "password": "Altjitter/Ludwig",
-    "records": [    
+    "records": [     
+        {
+            "user": "Radiant",
+            "link": "https://youtu.be/Q43pzTpJHbI",
+            "percent": 100,
+            "hz": 360
+        }
     ]
 }
