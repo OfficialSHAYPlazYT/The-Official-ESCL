@@ -7,6 +7,12 @@
     "verification": "https://youtu.be/Pnxdi_MsGuk?si=pzY25nhguAwReQ66",
     "percentToQualify": "100",
     "password": "Alternating/60FPS",
-    "records": [    
+    "records": [   
+           {
+            "user": "Randomperson360"
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        }
     ]
 }
