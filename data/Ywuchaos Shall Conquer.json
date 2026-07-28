@@ -1,0 +1,18 @@
+{
+    "id": 125551398,
+    "name": "Ywuchaos Shall Conquer",
+    "author": "Loooookkk",
+    "creators": ["Loooookk"],
+    "verifier": "Loooookkk",
+    "verification": "https://youtu.be/huONPk9JiOQ?si=kxIDqLn6E0XpNaCW",
+    "percentToQualify": "100",
+    "password": "Alternating/CBF",
+    "records": [     
+        {
+            "user": "Astroguy",
+            "link": "https://youtu.be/2C9wE35UKS8?si=deU6jVk3ww_W1Ple",
+            "percent": 100,
+            "hz": 120
+        }
+    ]
+}
