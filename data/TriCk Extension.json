@@ -1,0 +1,18 @@
+{
+    "id": 77682242,
+    "name": "TriCk Extension",
+    "author": "zFishal",
+    "creators": ["Ray131, zFishal"],
+    "verifier": "Ad3usGMD",
+    "verification": "https://youtu.be/AbgCSltu74U?si=83V6CHLH7DwTcAx-",
+    "percentToQualify": "100",
+    "password": "Alternating/60FPS",
+    "records": [     
+        {
+            "user": "Astroguy",
+            "link": "https://youtu.be/M6o4S2_mW9s?si=JfYCy6ODNP3-SZaJ",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
