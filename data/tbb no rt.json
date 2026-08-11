@@ -1,0 +1,25 @@
+{
+    "id": 128735318,
+    "name": "The Big Black (No Rt)",
+    "author": "Squeeggd",
+    "creators": ["Squeeggd, SomedudeV3"],
+    "verifier": "angopr",
+    "verification": "https://youtu.be/An93yTGPpac?si=zeuYNFWQtxAb8vF7",
+    "percentToQualify": 100,
+    "password": "Rake/CBF",
+    "records": [
+       
+          {
+            "user": "Astroguy",
+            "link": "https://youtu.be/c3CpNAXlBKI?si=hSb14TX-t6Ye7gb_",
+            "percent": 100,
+            "hz": 60
+          },
+          {
+            "user": "Squeeg",
+            "link": "https://youtu.be/c3CpNAXlBKI?si=hSb14TX-t6Ye7gb_",
+            "percent": 100,
+            "hz": 60
+          }
+    ]
+}
