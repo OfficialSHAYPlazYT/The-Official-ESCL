@@ -1,5 +1,5 @@
 {
-    "id": 140622580,
+    "id": 116316588,
     "name": "CHAOS",
     "author": "Aelzfr",
     "creators": ["Aelzfr"],
@@ -8,5 +8,35 @@
     "percentToQualify": "100",
     "password": "Alternating/60FPS",
     "records": [     
+         {
+            "user": "Loooookkk",
+            "link": "https://youtu.be/-m8VcZnAdzc?si=WceIMshjyRlGAY9M",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "PaperGuy",
+            "link": "https://youtu.be/zSdbNCEB0U0?si=hOHlG7tQ-tEhR_I0",
+            "percent": 100,
+            "hz": 60
+        },
+         {
+            "user": "Naomi",
+            "link": "https://youtu.be/_JQiG48ZNOM?si=smtmSxtgsdGBYZFJ",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "SHAYPlazYT",
+            "link": "https://youtu.be/l57NzOcMrb8?si=Dhw0Ywziily-HJ0Y",
+            "percent": 100,
+            "hz": 60
+        },
+                {
+            "user": "KING_MAST3R2O1O",
+            "link": "https://youtu.be/-xXKlWSlnfg?si=xLJB6sGAg0xlcE2J",
+            "percent": 100,
+            "hz": 60
+        }
     ]
 }
