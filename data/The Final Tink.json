@@ -7,6 +7,12 @@
     "verification": "https://youtu.be/-lVFL1eiGiI?si=71J94aSaOV65R1BJ",
     "percentToQualify": "100",
     "password": "Rake/CBF",
-    "records": [    
+    "records": [  
+         {
+            "user": "Radiant",
+            "link": "https://youtu.be/8crzlUyp-CQ?si=ikTp64QL-9WgLN9k",
+            "percent": 100,
+            "hz": 360
+        }
     ]
 }
