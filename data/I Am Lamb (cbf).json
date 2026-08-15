@@ -7,6 +7,12 @@
     "verification": "https://youtu.be/nhEiAWzq48c?si=AkJ-_75wr_hkPu_r",
     "percentToQualify": "100",
     "password": "Alternating/CBF",
-    "records": [    
+    "records": [  
+     {
+            "user": "SHAYPlazYT",
+            "link": "https://youtu.be/I0IE4U9FltE?si=efsTqbyDhBv7ATKe",
+            "percent": 100,
+            "hz": 360
+        }  
     ]
 }
