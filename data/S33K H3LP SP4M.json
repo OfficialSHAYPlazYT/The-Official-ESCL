@@ -1,0 +1,30 @@
+{
+    "id": 114924155,
+    "name": "S33K H3LP SP4M",
+    "author": "pixelfactorial",
+    "creators": ["pixelfactorial"],
+    "verifier": "pixelfactorial",
+    "verification": "https://youtu.be/hKwtdMy6ruw?si=tQKXHWLzdbZxWqhN",
+    "percentToQualify": 100,
+    "password": "Alternating",
+    "records": [
+       {
+            "user": "YWUChaos",
+            "link": "https://youtu.be/aHCrgzKwhVg?si=vFDBeppEYJSCEA5x",
+            "percent": 100,
+            "hz": "360"
+        }
+         {
+            "user": "2OO3",
+            "link": "https://youtu.be/5MBd-c7ebJ4?si=tXoCNWOw7nNzXIKw",
+            "percent": 100,
+            "hz": "360"
+        }
+      {
+            "user": "JostGMD",
+            "link": "https://www.tiktok.com/@jost2643/video/7628711036731837729?is_from_webapp=1&sender_device=pc",
+            "percent": 100,
+            "hz": "360"
+        }
+    ]
+}
