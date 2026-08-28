@@ -1,0 +1,36 @@
+{
+    "id": 123751511,
+    "name": "I AM HAM (ANY FPS)",
+    "author": "BLJBroken",
+    "creators": ["BLJBroken"],
+    "verifier": "BLJBroken",
+    "verification": "https://youtu.be/WBUYYyzwlfU?si=glFZNZMpytU9V9fA",
+    "percentToQualify": 100,
+    "password": "Alternating/30-240FPS",
+    "records": [
+        {
+            "user": "SmellY",
+            "link": "https://youtu.be/SNV1NBr44zo?si=-Oqt9acaFxqaRHez",
+            "percent": 100,
+            "hz": "60"
+        },
+          {
+            "user": "ShafikDaBest",
+            "link": "https://youtu.be/b_vJXNbSx84?si=mXOkUihRgOXveru_",
+            "percent": 100,
+            "hz": "60"
+        },
+         {
+            "user": "SHAYPlazYT",
+            "link": "https://youtube.com/shorts/1L75yp8IWpU?si=r9lUBzZtYLzyCD2o",
+            "percent": 100,
+            "hz": "60"
+        },
+        {
+            "user": "Lio",
+            "link": "https://youtu.be/gMSMMwjlfpY?si=GqFAVUJS1YvJ4ZG8",
+            "percent": 100,
+            "hz": "30"
+        }
+    ]
+}
