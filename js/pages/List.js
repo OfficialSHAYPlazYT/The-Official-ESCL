@@ -106,7 +106,7 @@ export default {
                         Achieved the record on the level that is listed on the site - please check the level ID before you submit a record
                     </p>
                     <p>
-                        Have at least an alabi with consistency proof, no video is exactly required but its recommended
+                     Video proof is required for all things
                     </p>
                     <p>
                         Method must be an allowed list method
