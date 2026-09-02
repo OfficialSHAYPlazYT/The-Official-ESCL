@@ -8,5 +8,11 @@
     "percentToQualify": 100,
     "password": "Rake/CBF",
     "records": [
+ {
+            "user": "SHAYPlazYT",
+            "link": "https://youtu.be/cqjCcAnwqKA?si=6PwfYc0-7gDoAUa_",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
